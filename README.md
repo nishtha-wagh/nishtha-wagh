@@ -1,4 +1,4 @@
-👋 Hi, I’m Nishtha Wagh!
+# 👋 Hi, I’m Nishtha Wagh!
 
 🚀 About Me
 -  🎓 Master's Student in Data Science at Arizona State University (Expected May 2025)
