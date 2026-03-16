@@ -1,8 +1,8 @@
-# 🚀 About Me
--  🎓 Master's Student in Data Science at Arizona State University (Expected May 2025)
--  💡 Passionate about Machine Learning, NLP, Generative AI, and Big Data
--  💼 Former Senior Data Scientist at Axio Digital (Amazon Subsidiary)
--  📊 Experienced in predictive modeling, risk assessment, and cloud-based ML solutions
+# About Me
+-  Master's Student in Data Science at Arizona State University (Expected May 2025)
+-  Passionate about Machine Learning, NLP, Generative AI, and Big Data
+-  Former Senior Data Scientist at Axio Digital (Amazon Subsidiary)
+-  Experienced in predictive modeling, risk assessment, and cloud-based ML solutions
 
 ### 🔍 What I’m Interested In
 -  AI/ML research and applications in finance, NLP, and forecasting
