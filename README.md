@@ -31,6 +31,3 @@
 -  💼 LinkedIn: linkedin.com/in/nishthawagh99
 -  📂 GitHub: @nishtha-wagh
 
-⚡ Fun Fact: I built an LLM-based framework to extract insights from alumni interviews using Azure OpenAI API!
-
-
